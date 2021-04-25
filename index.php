@@ -1,7 +1,11 @@
 <?php require_once "head.php" ?>
 <body>
+<<<<<<< HEAD
 	<h2>Esto es un cambio para la rama vicRama</h2>
 
+=======
+    
+>>>>>>> Jack
     <div class="contenedor">
         <?php require_once "header.php" ?>
 
