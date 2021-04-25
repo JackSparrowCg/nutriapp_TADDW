@@ -1,7 +1,6 @@
 <?php require_once "head.php" ?>
 <body>
 	<h2>Esto es un cambio para la rama vicRama una modificacion a esta linea para generar el conflicto remoto</h2>
-
     <div class="contenedor">
         <?php require_once "header.php" ?>
 
@@ -11,15 +10,7 @@
 
                 <center>
                     <img src="img/plato.png">
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
+                    
                     <p> Una buena alimentación mejora y mantiene nuestra salud rueda alimentación saludable.</p>
                 </center>
 
@@ -29,6 +20,7 @@
 
                 <center>
                     <img src="img/índice.jpg">
+                    <h1>¿Sabes la importancia de tu IMC?</h1>
                     <h1>¿Sabes la importancia de tu IMC?</h1>
                     
                     <p>El IMC es uno de los  indicadores del estado nutricional  el cual es bastante confiable para la mayoría de las personas.</p>
