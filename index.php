@@ -1,6 +1,6 @@
 <?php require_once "head.php" ?>
 <body>
-
+    
     <div class="contenedor">
         <?php require_once "header.php" ?>
 
