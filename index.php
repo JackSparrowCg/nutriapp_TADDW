@@ -1,5 +1,6 @@
 <?php require_once "head.php" ?>
 <body>
+	<h2>Esto es un cambio para la rama vicRama</h2>
 
     <div class="contenedor">
         <?php require_once "header.php" ?>
