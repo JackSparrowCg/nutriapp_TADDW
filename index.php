@@ -1,24 +1,15 @@
 <?php require_once "head.php" ?>
 <body>
 	<h2>Esto es un cambio para la rama vicRama una modificacion a esta linea para generar el conflicto remoto</h2>
-
     <div class="contenedor">
         <?php require_once "header.php" ?>
 
         <section id="seccion3" class="fila">
 
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-
+		
                 <center>
                     <img src="img/plato.png">
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
                     <h1>Empieza a comer sano hoy </h1>
                     <p> Una buena alimentación mejora y mantiene nuestra salud rueda alimentación saludable.</p>
                 </center>
