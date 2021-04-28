@@ -7,17 +7,9 @@
         <section id="seccion3" class="fila">
 
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-
+		
                 <center>
                     <img src="img/plato.png">
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
-                    <h1>Empieza a comer sano hoy </h1>
                     <h1>Empieza a comer sano hoy </h1>
                     <p> Una buena alimentación mejora y mantiene nuestra salud rueda alimentación saludable.</p>
                 </center>
