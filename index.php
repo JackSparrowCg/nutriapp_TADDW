@@ -9,8 +9,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 
                 <center>
-                    <img src="img/plato.png">
-                    
+                    <img src="img/plato.png">                    
                     <p> Una buena alimentación mejora y mantiene nuestra salud rueda alimentación saludable.</p>
                 </center>
 
